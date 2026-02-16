@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: white;
+    margin: 0px;
+}
+.container {
+    display: flex;
+}
+.card {
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+    background-color: pink;
+    align-content: center;
+}
