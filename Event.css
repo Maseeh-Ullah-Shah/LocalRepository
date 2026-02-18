@@ -1,3 +1,27 @@
 body {
     margin: 0px;
 }
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pink {
+    background-color: hotpink;
+    width: 300px;
+    height: 200px;
+}
+
+.green {
+    background-color: green;
+    width: 400px;
+    height: 300px;
+}
+
+.blue {
+    background-color: blue;
+    width: 200px;
+    height: 100px;
+}
+
